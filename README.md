@@ -1,2 +1,2 @@
 # hand-detection-app
-Hand detection app using Tensorflow.js, from Dev Ed's YT channel
+Hand detection app using Tensorflow.js and Handtrack.js, from Dev Ed's YT channel.
